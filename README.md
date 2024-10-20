@@ -1,3 +1,8 @@
+Hello! I am a second-year Master’s student in Software Engineering in Lille. I publish here my personal projects or university projects that I am proud of.
+
+Feel free to contact me!
+
+
 ![Your stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldbssn&cache_seconds=86400)
 
 <!--
